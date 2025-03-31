@@ -1,0 +1,5 @@
+{
+    "name": "new project",
+    "description": "this is a new project to test that the github action cross-repo compile works",
+    "live": "True"
+}
